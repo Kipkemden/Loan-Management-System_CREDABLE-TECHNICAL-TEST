@@ -1,0 +1,11 @@
+# Java
+lms-assessment-java\target\
+*.log
+.env
+.idea\
+*.iml
+
+# Maven
+.mvn\
+mvnw
+mvnw.cmd
